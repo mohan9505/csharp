@@ -1,0 +1,5 @@
+D:\CSharp\Table\obj\Debug\net7.0\Table.csproj.AssemblyReference.cache
+D:\CSharp\Table\obj\Debug\net7.0\Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Table\obj\Debug\net7.0\Table.AssemblyInfoInputs.cache
+D:\CSharp\Table\obj\Debug\net7.0\Table.AssemblyInfo.cs
+D:\CSharp\Table\obj\Debug\net7.0\Table.csproj.CoreCompileInputs.cache

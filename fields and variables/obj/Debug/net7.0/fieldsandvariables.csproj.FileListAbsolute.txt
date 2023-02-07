@@ -1,0 +1,15 @@
+D:\CSharp\fields and variables\obj\Debug\net7.0\fieldsandvariables.csproj.AssemblyReference.cache
+D:\CSharp\fields and variables\obj\Debug\net7.0\fieldsandvariables.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\fields and variables\obj\Debug\net7.0\fieldsandvariables.AssemblyInfoInputs.cache
+D:\CSharp\fields and variables\obj\Debug\net7.0\fieldsandvariables.AssemblyInfo.cs
+D:\CSharp\fields and variables\obj\Debug\net7.0\fieldsandvariables.csproj.CoreCompileInputs.cache
+D:\CSharp\fields and variables\bin\Debug\net7.0\fieldsandvariables.exe
+D:\CSharp\fields and variables\bin\Debug\net7.0\fieldsandvariables.deps.json
+D:\CSharp\fields and variables\bin\Debug\net7.0\fieldsandvariables.runtimeconfig.json
+D:\CSharp\fields and variables\bin\Debug\net7.0\fieldsandvariables.dll
+D:\CSharp\fields and variables\bin\Debug\net7.0\fieldsandvariables.pdb
+D:\CSharp\fields and variables\obj\Debug\net7.0\fieldsandvariables.dll
+D:\CSharp\fields and variables\obj\Debug\net7.0\refint\fieldsandvariables.dll
+D:\CSharp\fields and variables\obj\Debug\net7.0\fieldsandvariables.pdb
+D:\CSharp\fields and variables\obj\Debug\net7.0\fieldsandvariables.genruntimeconfig.cache
+D:\CSharp\fields and variables\obj\Debug\net7.0\ref\fieldsandvariables.dll

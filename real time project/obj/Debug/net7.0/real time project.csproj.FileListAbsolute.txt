@@ -1,0 +1,23 @@
+D:\CSharp\real time project\bin\Debug\net7.0\real time project.exe
+D:\CSharp\real time project\bin\Debug\net7.0\real time project.deps.json
+D:\CSharp\real time project\bin\Debug\net7.0\real time project.runtimeconfig.json
+D:\CSharp\real time project\bin\Debug\net7.0\real time project.dll
+D:\CSharp\real time project\bin\Debug\net7.0\real time project.pdb
+D:\CSharp\real time project\bin\Debug\net7.0\Aspose.Words.Pdf2Word.dll
+D:\CSharp\real time project\bin\Debug\net7.0\Aspose.Words.dll
+D:\CSharp\real time project\bin\Debug\net7.0\SkiaSharp.dll
+D:\CSharp\real time project\bin\Debug\net7.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\CSharp\real time project\bin\Debug\net7.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\CSharp\real time project\bin\Debug\net7.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\CSharp\real time project\bin\Debug\net7.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\CSharp\real time project\obj\Debug\net7.0\real time project.csproj.AssemblyReference.cache
+D:\CSharp\real time project\obj\Debug\net7.0\real time project.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\real time project\obj\Debug\net7.0\real time project.AssemblyInfoInputs.cache
+D:\CSharp\real time project\obj\Debug\net7.0\real time project.AssemblyInfo.cs
+D:\CSharp\real time project\obj\Debug\net7.0\real time project.csproj.CoreCompileInputs.cache
+D:\CSharp\real time project\obj\Debug\net7.0\real time project.csproj.CopyComplete
+D:\CSharp\real time project\obj\Debug\net7.0\real time project.dll
+D:\CSharp\real time project\obj\Debug\net7.0\refint\real time project.dll
+D:\CSharp\real time project\obj\Debug\net7.0\real time project.pdb
+D:\CSharp\real time project\obj\Debug\net7.0\real time project.genruntimeconfig.cache
+D:\CSharp\real time project\obj\Debug\net7.0\ref\real time project.dll

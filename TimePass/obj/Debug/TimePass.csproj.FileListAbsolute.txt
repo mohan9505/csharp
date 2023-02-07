@@ -1,0 +1,8 @@
+D:\CSharp\TimePass\obj\Debug\TimePass.csproj.AssemblyReference.cache
+D:\CSharp\TimePass\obj\Debug\TimePass.csproj.SuggestedBindingRedirects.cache
+D:\CSharp\TimePass\obj\Debug\TimePass.csproj.CoreCompileInputs.cache
+D:\CSharp\TimePass\bin\Debug\TimePass.exe.config
+D:\CSharp\TimePass\bin\Debug\TimePass.exe
+D:\CSharp\TimePass\bin\Debug\TimePass.pdb
+D:\CSharp\TimePass\obj\Debug\TimePass.exe
+D:\CSharp\TimePass\obj\Debug\TimePass.pdb

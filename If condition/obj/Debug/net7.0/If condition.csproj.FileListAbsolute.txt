@@ -1,0 +1,15 @@
+D:\CSharp\If condition\bin\Debug\net7.0\If condition.exe
+D:\CSharp\If condition\bin\Debug\net7.0\If condition.deps.json
+D:\CSharp\If condition\bin\Debug\net7.0\If condition.runtimeconfig.json
+D:\CSharp\If condition\bin\Debug\net7.0\If condition.dll
+D:\CSharp\If condition\bin\Debug\net7.0\If condition.pdb
+D:\CSharp\If condition\obj\Debug\net7.0\If condition.csproj.AssemblyReference.cache
+D:\CSharp\If condition\obj\Debug\net7.0\If condition.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\If condition\obj\Debug\net7.0\If condition.AssemblyInfoInputs.cache
+D:\CSharp\If condition\obj\Debug\net7.0\If condition.AssemblyInfo.cs
+D:\CSharp\If condition\obj\Debug\net7.0\If condition.csproj.CoreCompileInputs.cache
+D:\CSharp\If condition\obj\Debug\net7.0\If condition.dll
+D:\CSharp\If condition\obj\Debug\net7.0\refint\If condition.dll
+D:\CSharp\If condition\obj\Debug\net7.0\If condition.pdb
+D:\CSharp\If condition\obj\Debug\net7.0\If condition.genruntimeconfig.cache
+D:\CSharp\If condition\obj\Debug\net7.0\ref\If condition.dll

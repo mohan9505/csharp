@@ -1,0 +1,8 @@
+D:\CSharp\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\CSharp\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\CSharp\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\CSharp\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+D:\CSharp\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.SuggestedBindingRedirects.cache
+D:\CSharp\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\CSharp\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\CSharp\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

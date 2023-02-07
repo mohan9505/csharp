@@ -1,0 +1,15 @@
+D:\CSharp\ConsoleApp6\bin\Debug\net7.0\inheritance.exe
+D:\CSharp\ConsoleApp6\bin\Debug\net7.0\inheritance.deps.json
+D:\CSharp\ConsoleApp6\bin\Debug\net7.0\inheritance.runtimeconfig.json
+D:\CSharp\ConsoleApp6\bin\Debug\net7.0\inheritance.dll
+D:\CSharp\ConsoleApp6\bin\Debug\net7.0\inheritance.pdb
+D:\CSharp\ConsoleApp6\obj\Debug\net7.0\inheritance.csproj.AssemblyReference.cache
+D:\CSharp\ConsoleApp6\obj\Debug\net7.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\ConsoleApp6\obj\Debug\net7.0\inheritance.AssemblyInfoInputs.cache
+D:\CSharp\ConsoleApp6\obj\Debug\net7.0\inheritance.AssemblyInfo.cs
+D:\CSharp\ConsoleApp6\obj\Debug\net7.0\inheritance.csproj.CoreCompileInputs.cache
+D:\CSharp\ConsoleApp6\obj\Debug\net7.0\inheritance.dll
+D:\CSharp\ConsoleApp6\obj\Debug\net7.0\refint\inheritance.dll
+D:\CSharp\ConsoleApp6\obj\Debug\net7.0\inheritance.pdb
+D:\CSharp\ConsoleApp6\obj\Debug\net7.0\inheritance.genruntimeconfig.cache
+D:\CSharp\ConsoleApp6\obj\Debug\net7.0\ref\inheritance.dll

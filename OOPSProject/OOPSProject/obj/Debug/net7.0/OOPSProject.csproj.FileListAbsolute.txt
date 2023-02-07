@@ -1,0 +1,15 @@
+D:\CSharp\OOPSProject\OOPSProject\bin\Debug\net7.0\OOPSProject.exe
+D:\CSharp\OOPSProject\OOPSProject\bin\Debug\net7.0\OOPSProject.deps.json
+D:\CSharp\OOPSProject\OOPSProject\bin\Debug\net7.0\OOPSProject.runtimeconfig.json
+D:\CSharp\OOPSProject\OOPSProject\bin\Debug\net7.0\OOPSProject.dll
+D:\CSharp\OOPSProject\OOPSProject\bin\Debug\net7.0\OOPSProject.pdb
+D:\CSharp\OOPSProject\OOPSProject\obj\Debug\net7.0\OOPSProject.csproj.AssemblyReference.cache
+D:\CSharp\OOPSProject\OOPSProject\obj\Debug\net7.0\OOPSProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\OOPSProject\OOPSProject\obj\Debug\net7.0\OOPSProject.AssemblyInfoInputs.cache
+D:\CSharp\OOPSProject\OOPSProject\obj\Debug\net7.0\OOPSProject.AssemblyInfo.cs
+D:\CSharp\OOPSProject\OOPSProject\obj\Debug\net7.0\OOPSProject.csproj.CoreCompileInputs.cache
+D:\CSharp\OOPSProject\OOPSProject\obj\Debug\net7.0\OOPSProject.dll
+D:\CSharp\OOPSProject\OOPSProject\obj\Debug\net7.0\refint\OOPSProject.dll
+D:\CSharp\OOPSProject\OOPSProject\obj\Debug\net7.0\OOPSProject.pdb
+D:\CSharp\OOPSProject\OOPSProject\obj\Debug\net7.0\OOPSProject.genruntimeconfig.cache
+D:\CSharp\OOPSProject\OOPSProject\obj\Debug\net7.0\ref\OOPSProject.dll

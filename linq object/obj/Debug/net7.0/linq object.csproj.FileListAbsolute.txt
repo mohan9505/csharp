@@ -1,0 +1,15 @@
+D:\CSharp\linq object\obj\Debug\net7.0\linq object.csproj.AssemblyReference.cache
+D:\CSharp\linq object\obj\Debug\net7.0\linq object.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\linq object\obj\Debug\net7.0\linq object.AssemblyInfoInputs.cache
+D:\CSharp\linq object\obj\Debug\net7.0\linq object.AssemblyInfo.cs
+D:\CSharp\linq object\obj\Debug\net7.0\linq object.csproj.CoreCompileInputs.cache
+D:\CSharp\linq object\bin\Debug\net7.0\linq object.exe
+D:\CSharp\linq object\bin\Debug\net7.0\linq object.deps.json
+D:\CSharp\linq object\bin\Debug\net7.0\linq object.runtimeconfig.json
+D:\CSharp\linq object\bin\Debug\net7.0\linq object.dll
+D:\CSharp\linq object\bin\Debug\net7.0\linq object.pdb
+D:\CSharp\linq object\obj\Debug\net7.0\linq object.dll
+D:\CSharp\linq object\obj\Debug\net7.0\refint\linq object.dll
+D:\CSharp\linq object\obj\Debug\net7.0\linq object.pdb
+D:\CSharp\linq object\obj\Debug\net7.0\linq object.genruntimeconfig.cache
+D:\CSharp\linq object\obj\Debug\net7.0\ref\linq object.dll

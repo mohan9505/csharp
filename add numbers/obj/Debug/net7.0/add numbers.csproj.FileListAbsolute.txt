@@ -1,0 +1,15 @@
+D:\CSharp\add numbers\obj\Debug\net7.0\add numbers.csproj.AssemblyReference.cache
+D:\CSharp\add numbers\obj\Debug\net7.0\add numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\add numbers\obj\Debug\net7.0\add numbers.AssemblyInfoInputs.cache
+D:\CSharp\add numbers\obj\Debug\net7.0\add numbers.AssemblyInfo.cs
+D:\CSharp\add numbers\obj\Debug\net7.0\add numbers.csproj.CoreCompileInputs.cache
+D:\CSharp\add numbers\bin\Debug\net7.0\add numbers.exe
+D:\CSharp\add numbers\bin\Debug\net7.0\add numbers.deps.json
+D:\CSharp\add numbers\bin\Debug\net7.0\add numbers.runtimeconfig.json
+D:\CSharp\add numbers\bin\Debug\net7.0\add numbers.dll
+D:\CSharp\add numbers\bin\Debug\net7.0\add numbers.pdb
+D:\CSharp\add numbers\obj\Debug\net7.0\add numbers.dll
+D:\CSharp\add numbers\obj\Debug\net7.0\refint\add numbers.dll
+D:\CSharp\add numbers\obj\Debug\net7.0\add numbers.pdb
+D:\CSharp\add numbers\obj\Debug\net7.0\add numbers.genruntimeconfig.cache
+D:\CSharp\add numbers\obj\Debug\net7.0\ref\add numbers.dll

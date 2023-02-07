@@ -1,0 +1,15 @@
+D:\CSharp\ConsoleApp6\obj\Debug\net7.0\ConsoleApp6.csproj.AssemblyReference.cache
+D:\CSharp\ConsoleApp6\obj\Debug\net7.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\ConsoleApp6\obj\Debug\net7.0\ConsoleApp6.AssemblyInfoInputs.cache
+D:\CSharp\ConsoleApp6\obj\Debug\net7.0\ConsoleApp6.AssemblyInfo.cs
+D:\CSharp\ConsoleApp6\obj\Debug\net7.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+D:\CSharp\ConsoleApp6\bin\Debug\net7.0\ConsoleApp6.exe
+D:\CSharp\ConsoleApp6\bin\Debug\net7.0\ConsoleApp6.deps.json
+D:\CSharp\ConsoleApp6\bin\Debug\net7.0\ConsoleApp6.runtimeconfig.json
+D:\CSharp\ConsoleApp6\bin\Debug\net7.0\ConsoleApp6.dll
+D:\CSharp\ConsoleApp6\bin\Debug\net7.0\ConsoleApp6.pdb
+D:\CSharp\ConsoleApp6\obj\Debug\net7.0\ConsoleApp6.dll
+D:\CSharp\ConsoleApp6\obj\Debug\net7.0\refint\ConsoleApp6.dll
+D:\CSharp\ConsoleApp6\obj\Debug\net7.0\ConsoleApp6.pdb
+D:\CSharp\ConsoleApp6\obj\Debug\net7.0\ConsoleApp6.genruntimeconfig.cache
+D:\CSharp\ConsoleApp6\obj\Debug\net7.0\ref\ConsoleApp6.dll

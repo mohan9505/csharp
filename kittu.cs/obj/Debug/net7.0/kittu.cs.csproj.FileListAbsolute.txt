@@ -1,0 +1,15 @@
+D:\CSharp\kittu.cs\bin\Debug\net7.0\kittu.cs.exe
+D:\CSharp\kittu.cs\bin\Debug\net7.0\kittu.cs.deps.json
+D:\CSharp\kittu.cs\bin\Debug\net7.0\kittu.cs.runtimeconfig.json
+D:\CSharp\kittu.cs\bin\Debug\net7.0\kittu.cs.dll
+D:\CSharp\kittu.cs\bin\Debug\net7.0\kittu.cs.pdb
+D:\CSharp\kittu.cs\obj\Debug\net7.0\kittu.cs.csproj.AssemblyReference.cache
+D:\CSharp\kittu.cs\obj\Debug\net7.0\kittu.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\kittu.cs\obj\Debug\net7.0\kittu.cs.AssemblyInfoInputs.cache
+D:\CSharp\kittu.cs\obj\Debug\net7.0\kittu.cs.AssemblyInfo.cs
+D:\CSharp\kittu.cs\obj\Debug\net7.0\kittu.cs.csproj.CoreCompileInputs.cache
+D:\CSharp\kittu.cs\obj\Debug\net7.0\kittu.cs.dll
+D:\CSharp\kittu.cs\obj\Debug\net7.0\refint\kittu.cs.dll
+D:\CSharp\kittu.cs\obj\Debug\net7.0\kittu.cs.pdb
+D:\CSharp\kittu.cs\obj\Debug\net7.0\kittu.cs.genruntimeconfig.cache
+D:\CSharp\kittu.cs\obj\Debug\net7.0\ref\kittu.cs.dll
